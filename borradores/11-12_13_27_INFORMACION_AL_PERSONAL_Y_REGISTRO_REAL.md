@@ -19,4 +19,4 @@
 - Evidencia opcional: fotos de la explicación, material mostrado, preguntas/respuestas.
 - Personas ausentes y nueva fecha de capacitación: **[registrar]**.
 
-**Cotejo Cursor 29/10:** no hay fotografía ni video de plática en la carpeta y no se impartieron las sesiones. El Anexo 10 lleva cuatro firmas de integrantes de CSH; no sustituye constancias de la plantilla ni acredita impartición. **Estado: PENDIENTE.**
+**Fuentes separadas:** Cursor no localizó fotografías ni constancia formal de plática en la carpeta de trabajo. Posteriormente, el usuario aportó en esta conversación una captura del 24/10 de personal reunido y reportó una actividad informativa. La imagen por sí sola no acredita temario, duración ni asistentes. Anexo 10 lleva cuatro firmas CSH; no sustituye lista de plantilla. **Estado: PENDIENTE DE ACREDITACIÓN FORMAL.**
