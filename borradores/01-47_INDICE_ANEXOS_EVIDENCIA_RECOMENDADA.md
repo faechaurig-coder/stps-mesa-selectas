@@ -10,8 +10,8 @@
 | 17 | Programa de mantenimiento del 05 al 10/10 | **MENCIONAR como programación solamente**, sin bitácora ni declaración de ejecución |
 | 33–34 | `2 visita/Anexo 20 1.pdf`, firmado por responsable SST | **APROBADO PARA IMPRIMIR**; nota de fecha/designación y acceso 4.2 en hoja aparte y solo con datos verificables |
 | 35 | `2 visita/Anexo 21.pdf`, cinco procedimientos 07/09 firmados | **APROBADO PARA IMPRIMIR**; conservar intacto y agregar nota independiente sobre ausencia de sillas |
-| 37 | Anexo 22: solo dos firmas | STPS requirió **firmas de integrantes de CSH**; presentar avance parcial sin atribuirle firmas faltantes |
-| 47 | Anexo 11 histórico; Dirección confirma señales instaladas | **PENDIENTE DE VERIFICACIÓN:** fotos actuales de cada salida y constatación física, no declarar cobertura ya acreditada |
+| 37 | Anexo 22 ya existente, 07/09, dos firmas de Yahaira y Francisco | **APORTAR COMO AVANCE PARCIAL**; no rehacer la constancia; falta resolver objeción de firmas de demás integrantes CSH |
+| 47 | EF-01 (privado): cuatro fotos originales; 3 y 4 muestran salidas señalizadas, 1 extintor, 2 Cámara 2 | **APORTAR COMO EVIDENCIA FOTOGRÁFICA PARCIAL** de señalización visible; verificar todas las ubicaciones y rutas en sitio. No subir fotos a repo público |
 | 5 | Carpeta local `Nominas` y cuatro recibos previos | **SOLO MENCIONAR:** CFDI localizados **SIN CONCILIAR**, no incluir como lote completo |
 
 **Medidas 23 y 24:** el Anexo 9 firmado se incorpora como evidencia **nueva**, ya que STPS indicó que la primera entrega no presentó prueba de esos puntos.
