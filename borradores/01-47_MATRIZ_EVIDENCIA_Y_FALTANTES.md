@@ -9,18 +9,18 @@
 | Medida | Estado del requisito | Archivo local/documento | Qué falta | **Cómo SÍ aprovecharlo / decisión interna** |
 |---:|---|---|---|---|
 | 1 | PENDIENTE | IMSS.pdf (antiguo); movimientos citados en STPS_FINAL | Corte al 01/09, reportes agosto/septiembre y aclaración documental de baja de la persona observada | APORTE PARCIAL: archivo anterior; no sustituye IMSS 2026 |
-| 2 | PENDIENTE | RIT / STPS_FINAL | Acta de comisión mixta específicamente del Reglamento Interior | PLAN: pedir acta específica RIT |
-| 3 | PENDIENTE | RIT; folio CFCRL-REGLAMENTO-20260908-63162-18267 | Acuse de depósito, no solo solicitud | APORTE PARCIAL: folio de solicitud, no depósito |
-| 4 | PENDIENTE | RIT: cláusula sin localizar en el lote de las 14:00 | Jurídico debe señalar párrafo exacto y aplicación real si corresponde | NO OFRECER TODAVÍA; no se cotejó la cláusula |
+| 2 | PENDIENTE | Borradores/antecedentes de RIT, sin reglamento concluido | La empresa confirma que NO se concluyó el RIT; elaborar texto y comisión mixta propia | PLAN: elaboración y formalización auténticas |
+| 3 | PENDIENTE | Folio de solicitud CFCRL-REGLAMENTO-20260908-63162-18267 | NO hay RIT concluido ni depósito acreditado; la solicitud no constituye depósito | PLAN: concluir RIT y tramitar depósito real |
+| 4 | PENDIENTE | RIT sin formalizar | Integrar y verificar permiso de paternidad en texto final del RIT; sin afirmar cláusula vigente | PLAN: revisión Jurídico |
 | 5 | PARCIAL | Carpeta `Nominas`: recibos semanales de agosto y cuatro de primera entrega | **Localizados, sin conciliar** por persona ni con corte 30/08 y plantilla de 68 | MENCIONAR AVANCE; NO IMPRIMIR COMO PAQUETE COMPLETO; CFDI de agosto localizados, sin conciliar |
 | 6 | SOPORTE LOCALIZADO | `2 visita/Acta de protocolo de discriminacion.pdf` del 06/09; cuatro firmas | Acta posterior a la inspección; es del protocolo, NO del RIT; el protocolo separado no está acreditado como firmado | **APROBADO INTERNAMENTE PARA OFRECER:** acta del protocolo con cuatro firmas; no afirmar firma del protocolo aparte |
 | 7 | PENDIENTE | Anexo 8 | Rehacer aplicabilidad; no afirmar sillas disponibles | AVANCE: análisis inicial, sin cumplimiento de sillas |
 | 8 | PARCIAL | Anexo 9 (apartado 5.2) | Identificación con nombre y puesto de CADA persona | AVANCE: identificación por puestos; falta persona |
 | 9 | PENDIENTE | Anexo 8 | Ficha y puntuación individual; revisar clasificación de 9 puntos | AVANCE: evaluación histórica objetada; corregir ficha individual |
 | 10 | PENDIENTE | Anexo 8; procedimiento de pausas | Relacionar pausas con evaluación y acreditar implementación real | AVANCE: programa de pausas, no ejecución confirmada |
-| 11 | PENDIENTE | Anexo 10 (cuatro firmas CSH), guía de capacitación no impartida | Faltan charla real y lista firmada por participantes; el Anexo 10 NO es esa lista | APORTE PARCIAL: Anexo 10 con cuatro firmas CSH; no plática |
+| 11 | PENDIENTE | Anexo 10 con cuatro firmas CSH; captura 24/10 aportada por usuario a ChatGPT | El usuario reporta reunión de información; imagen no acredita contenidos, participantes ni duración; faltan constancias de plantilla | AVANCE DE REUNIÓN REPORTADA; NO equivale a capacitación formal |
 | 12 | PENDIENTE | Anexo 10: canalización prevista | Registros reales de casos/canalización, si existieron; no inventar | APORTE PARCIAL: mecanismo de canalización documentado |
-| 13 | PENDIENTE | Guía de capacitación y Anexo 21 | Impartir contenido sobre uso de áreas y obtener asistencia auténtica; **no hay foto o video de plática en carpeta** | APORTE PARCIAL: procedimiento de áreas/guion, no plática |
+| 13 | PENDIENTE | Guía de capacitación; captura 24/10 entregada en conversación (no en carpeta local) | Confirmar efectivamente temas tratados y asistentes; sin lista firmada | AVANCE DOCUMENTAL Y FOTOGRÁFICO DE REUNIÓN, NO de temario completo |
 | 14 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` recorrido 04/09 con cuatro firmas | La evidencia corresponde a ESE recorrido; no acredita periodicidad de futuros recorridos | **APROBADO INTERNAMENTE PARA OFRECER:** registro de recorrido del 04/09, sin prometer periodicidad |
 | 15 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` del 04/09, cuatro firmas | Se subsanó objeción formal de falta de firmas; 5.2 sigue sin nombres y 64/68 sin conciliar | **APROBADO INTERNAMENTE PARA OFRECER:** Anexo 9 firmado para subsanar defecto puntual, sin declarar cierre total |
 | 16 | PENDIENTE | Factura 1628 sobre cámaras | Prueba de mantenimiento de ventilación de áreas de personal | PLAN: factura 1628 no corresponde a ventilación personal |
@@ -34,7 +34,7 @@
 | 24 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` del 04/09, cuatro firmas | Primera entrega no ligó evidencia a esta medida; no fue valorada por STPS | **APROBADO INTERNAMENTE PARA OFRECER:** Anexo 9 como soporte nuevo expresamente referido a 24 |
 | 25 | PENDIENTE | Lista de capacitación CSH prefirmada | Realizar capacitación, fecha y firmas posteriores reales; lista anterior NO utilizar | PLAN: impartir capacitación real; excluir hoja prefirmada |
 | 26 | PENDIENTE | Misma lista prefirmada | Inducción efectiva a integrantes y evidencia posterior | PLAN: impartir inducción real; excluir hoja prefirmada |
-| 27 | PENDIENTE | Guía de capacitación | Explicar señales reales y documentar asistentes | PLAN: sesión real de señales; guion no prueba impartición |
+| 27 | PENDIENTE | Guía escrita y captura de reunión del 24/10 | No hay constancia de enseñanza específica sobre señales ni lista de asistentes | USAR COMO ANTECEDENTE, no acreditación de capacitación formal |
 | 28 | PENDIENTE | Anexo 18; diagnóstico anterior | Diagnóstico sustentado con área, condiciones y NOM-030 6.2 | CERRABLE DOCUMENTALMENTE SI se valida diagnóstico por áreas real |
 | 29 | PENDIENTE | Anexo 18 | Desglose por áreas y verificación real | CERRABLE DOCUMENTALMENTE SI se levanta evaluación por áreas |
 | 30 | PENDIENTE | Anexo 18 | Tabla de requisitos normativos y condición por área | CERRABLE DOCUMENTALMENTE SI se revisan normas aplicables reales |
@@ -51,10 +51,10 @@
 | 41 | PENDIENTE | Anexo 19 | Registro de resultados y cierres, no celdas vacías | APORTE PARCIAL: registrar resultados efectivamente obtenidos |
 | 42 | PENDIENTE CRÍTICO | Anexo 24, procedimiento interno | Aviso oficial ACC/1399/2026: no se localizó acuse | PLAN/AVANCE: procedimiento existe; falta aviso STPS |
 | 43 | PENDIENTE CRÍTICO | Anexo 24, procedimiento interno | Acuse de presentación ante STPS: no se localizó | PLAN: sin acuse oficial; no afirmar presentación |
-| 44 | NO CUMPLIDO | Acta inspección / emplazamiento | Ancho de escaleras sin adecuación; controlar riesgos | NO CUMPLIDO: plan y controles físicos reales, si se adoptan |
-| 45 | NO CUMPLIDO | Acta inspección / emplazamiento | Descansos de escaleras sin adecuación; controlar riesgos | NO CUMPLIDO: plan y controles físicos reales, si se adoptan |
-| 46 | NO CUMPLIDO | Anexo 11/fotos históricas | Cintilla antiderrapante no colocada | NO CUMPLIDO: instalar antes de afirmar avance físico |
-| 47 | PENDIENTE | Anexo 11, foto de primera entrega | No hay fotos nuevas de todas las salidas ni revisión física completa; STPS reservó la constatación en centro | PENDIENTE: recorrida y fotos actuales por salida |
+| 44 | NO CUMPLIDO | Dirección informa cotización en proceso de escaleras | Sin obra; documentar cotizaciones reales y controles de riesgo | COTIZACIÓN EN TRÁMITE, no corrección concluida |
+| 45 | NO CUMPLIDO | Dirección informa cotización en proceso de descansos | Sin obra; documentar cotizaciones reales y controles de riesgo | COTIZACIÓN EN TRÁMITE, no corrección concluida |
+| 46 | NO CUMPLIDO | Dirección informa cotización en proceso de antiderrapantes | Sin instalación; cotización y pruebas después de colocar | COTIZACIÓN EN TRÁMITE, no instalación |
+| 47 | INSTALACIÓN REPORTADA / NO VERIFICADA | Señales instaladas según usuario y foto histórica de Anexo 11 | No hay fotos actuales de cada salida ni verificación completa en el centro | OFRECER MANIFESTACIÓN DE INSTALACIÓN; validar físicamente y anexar fotografías actuales |
 
 ## Reglas de control
 - La fecha del acta inicial es 01/09/2026; los escritos del 04/09 en adelante solo pueden demostrar **acciones posteriores**. No retrofechar.
