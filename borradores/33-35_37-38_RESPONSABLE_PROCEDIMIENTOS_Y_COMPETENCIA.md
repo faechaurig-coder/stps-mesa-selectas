@@ -6,7 +6,7 @@
 | 33 | Anexo 20: designación de responsable SST, firma de Francisco | Fecha de designación y mención expresa de acceso a información conforme 4.2, si realmente se otorgó; NO retrofechar |
 | 34 | Anexo 20: mecanismo de respuesta ante riesgo grave | Evidencia de que fue comunicado; procedimiento no prueba difusión |
 | 35 | Anexo 21 del 07/09: cinco procedimientos; firma de Francisco | Documento firmado existe; verificar uso real y **aclarar mención a asientos disponibles** |
-| 37 | Anexo 22 del 07/09: comunicación; firmas de Yahaira y Francisco | Firmas de responsables no equivalen a constancia firmada por toda la plantilla |
+| 37 | Anexo 22 del 07/09: comunicación; firmas de Yahaira y Francisco | STPS señaló falta de **firmas de integrantes de CSH**; el Anexo 22 tiene solo dos, no exigir firmas de plantilla en este punto |
 | 38 | Temario / referencias de habilidades SST | **No hay DC-3**. Acreditar únicamente formación/experiencia documental real; no fabricar constancia |
 
 ## Nota aclaratoria para uso si Dirección la valida
@@ -14,4 +14,4 @@
 
 **Fecha REAL de emisión de la nota:** [completar cuando se firme]. **Emite y firma:** [persona autorizada]. La nota **no modifica ni sustituye** el original de septiembre ni demuestra cumplimiento de Ley Silla.
 
-**Estado:** 33, 34, 35 y 37 tienen SOPORTE LOCALIZADO sujeto a cotejo; 38 PENDIENTE.
+**Estado:** 33, 34 y 35 SOPORTE LOCALIZADO sujeto a cotejo; 37 PARCIAL por firmas CSH faltantes; 38 PENDIENTE.
