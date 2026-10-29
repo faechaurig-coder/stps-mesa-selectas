@@ -6,7 +6,7 @@
 
 | Medida | Estado | Archivo local/documento que la sostiene | Qué falta o debe comprobar Cursor |
 |---:|---|---|---|
-| 1 | PENDIENTE | IMSS.pdf (antiguo); movimientos citados en STPS_FINAL | Corte al 01/09, reportes agosto/septiembre y aclaración documental de baja de Liliana |
+| 1 | PENDIENTE | IMSS.pdf (antiguo); movimientos citados en STPS_FINAL | Corte al 01/09, reportes agosto/septiembre y aclaración documental de baja de la persona observada |
 | 2 | PENDIENTE | RIT / STPS_FINAL | Acta de comisión mixta específicamente del Reglamento Interior |
 | 3 | PENDIENTE | RIT; folio CFCRL-REGLAMENTO-20260908-63162-18267 | Acuse de depósito, no solo solicitud |
 | 4 | PENDIENTE | RIT | Cotejo con abogados y prueba de aplicación, cuando exista supuesto |
