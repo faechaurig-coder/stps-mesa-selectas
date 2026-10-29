@@ -7,26 +7,26 @@
 | 2 | Hay RIT; falta acta de comisión mixta específicamente del RIT. Jurídico la revisa. |
 | 3 | Hay folio de SOLICITUD CFCRL; depósito efectivo sin acreditar. |
 | 4 | RIT prevé permiso; revisar que texto y aplicación cumplan, sin inventar casos. |
-| 5 | Hay recibos en carpetas locales; conciliar todo el corte con plantilla. |
+| 5 | Hay recibos semanales de agosto en `Nominas`, además de cuatro previos; siguen **incompletos y sin conciliación** frente al corte y plantilla. |
 | 6 | Protocolo y acta mixta del 06/09 con firmas; ofrecer tras cotejo y señalar elaboración posterior. |
 | 7 | Hay análisis previo; se rehace aplicabilidad con condiciones reales y sin declarar sillas existentes. |
 | 8 | Anexo 9 menciona puestos, falta identificar a cada persona y su exposición. |
 | 9 | Anexo 8 contiene puntuación objetada; elaborar fichas y calificación individual correcta. |
 | 10 | Programa de pausas planteado; verificar aplicación real por puesto/persona y ajustar. |
-| 11 | Anexo 10 y guion; falta información acreditada por trabajadores; firma de Comisión no basta. |
+| 11 | Anexo 10 trae cuatro firmas de Comisión; **no se impartió la plática** ni hay lista auténtica de participantes. |
 | 12 | Anexo 10 describe canalización; falta prueba de atenciones reales si existieron. |
 | 13 | Hay guion y procedimiento de áreas; falta impartición y firmas reales de trabajadores. |
 | 14 | Anexo 9 contiene recorrido del 04/09 firmado; cotejar suficiencia del registro ocular. |
-| 15 | Anexo 9 refiere verificación posterior a ACC/1399/2026; cotejar cobertura y fecha. |
+| 15 | Anexo 9 del 04/09 ahora tiene cuatro firmas; subsana defecto formal objetado de firmas, **sin acreditar por sí solo todos los extremos**; 5.2 carece de nombres. |
 | 16 | Factura 1628 corresponde a cámaras, no ventilación de personal; falta orden/bitácora específica. |
 | 17 | Programa 05–10/10 existente; falta bitácora firmada de trabajos REALMENTE ejecutados. |
-| 18 | Acta CSH de 04/09 existe y fue objetada; documentar subsanación real, no retroactiva. |
-| 19 | Acta CSH firmada no acredita integración exigida; cotejar datos y representación. |
-| 20 | Programa de recorridos existe; su validez depende de integración y ejecución verificables. |
-| 21 | Acta identifica coordinador; STPS lo objetó por integración; corregir soporte aplicable. |
-| 22 | Acta identifica secretario; STPS lo objetó por integración; corregir soporte aplicable. |
-| 23 | Anexo 9 firmado demuestra recorrido posterior a inspección; validar requisitos de acta. |
-| 24 | Anexo 9 firmado incluye verificación; validar contenido y seguimiento. |
+| 18 | Acta CSH 04/09 existe; STPS objeta fecha posterior al 01/09 e incumplimiento del numeral 7.4 NOM-019; regularización solo hacia adelante. |
+| 19 | Misma acta CSH 04/09; STPS indica fecha posterior y no cumplimiento del 7.4, **sin especificar incisos**. |
+| 20 | Programa del 05/09 existe; STPS lo rechazó porque el acta constitutiva no satisface 7.4, **no por cronograma aislado**. |
+| 21 | Acta 04/09 identifica coordinador; STPS objeta fecha posterior y numeral 7.4. |
+| 22 | Acta 04/09 identifica secretario; STPS objeta fecha posterior y numeral 7.4. |
+| 23 | Anexo 9 del 04/09 firmado: **nuevo soporte** frente a primera entrega en la que STPS dijo no haber recibido evidencia para este punto; cotejar requisitos. |
+| 24 | Anexo 9 del 04/09 firmado: **nuevo soporte** para medida que STPS consideró sin evidencia en la primera entrega; cotejar contenido. |
 | 25 | Temario y hoja prefirmada NO prueban capacitación; impartir sesión real y registrar al finalizar. |
 | 26 | Lista prefirmada NO prueba inducción; realizar y documentar inducción verdadera. |
 | 27 | Existe guion general; falta explicar señales reales y documentar asistentes. |
@@ -39,17 +39,17 @@
 | 34 | Anexo 20 incluye respuesta ante riesgo; falta demostrar comunicación/implementación. |
 | 35 | Anexo 21 firmado contiene procedimientos; nota aclaratoria por mención de asientos inexistentes. |
 | 36 | Relación de acciones propuesta; falta evidencia de su aplicación efectiva. |
-| 37 | Anexo 22 tiene firmas de responsables; no equivale a constancia firmada de toda plantilla. |
+| 37 | Anexo 22 tiene dos firmas, pero STPS pidió **firmas de los integrantes de la Comisión**; no exigir erróneamente firma de toda la plantilla en esta medida. |
 | 38 | Hay temario; sin DC-3 ni prueba suficiente de competencia; buscar solo constancias auténticas. |
 | 39 | Existe formato de seguimiento; faltan resultados, responsables y fechas reales. |
 | 40 | Se prevé resguardo documental; falta control y ubicación real de archivo por dos años. |
 | 41 | Se prevé resultado de seguimiento; faltan cierres y soportes comprobables. |
 | 42 | Anexo 24 define procedimiento; falta aviso oficial verificable de ACC/1399/2026. |
-| 43 | No hay acuse SIAAT local confirmado; recuperar/presentar trámite auténtico y reconocer fecha real. |
+| 43 | No hay acuse SIAAT; recuperar o gestionar aviso oficial con fecha real. Cualquier afirmación sobre extemporaneidad requiere revisión de hechos y Jurídico. |
 | 44 | Dimensiones de escaleras no corregidas; estudio técnico y controles inmediatos según riesgo. |
 | 45 | Descansos de escaleras no corregidos; evaluación técnica y protección real. |
 | 46 | Antiderrapantes no colocados; instalar y fotografiar solo tras ejecución. |
-| 47 | Foto histórica de señal de salida; verificar cobertura y aportar evidencia actual por ubicación. |
+| 47 | Medida PENDIENTE: foto histórica en primera entrega; ninguna foto actual de todas las salidas ni verificación física completa. |
 
 ## Planes breves por área (fases I, II, III)
 - **1–6:** [01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md](01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md).
