@@ -13,9 +13,9 @@
 | 8 | Anexo 9 menciona puestos, falta identificar a cada persona y su exposición. |
 | 9 | Anexo 8 contiene puntuación objetada; elaborar fichas y calificación individual correcta. |
 | 10 | Programa de pausas planteado; verificar aplicación real por puesto/persona y ajustar. |
-| 11 | Anexo 10 tiene cuatro firmas CSH; usuario reporta una reunión el 24/10 y aporta fotografía, sin lista nominal ni prueba suficiente de contenidos. No se declara capacitación formal. |
+| 11 | Francisco confirma que impartió dos pláticas distintas: comunicación de riesgos y actuación en el centro de trabajo, y bipedestación. Se adjunta foto de reunión del 24/10 como respaldo parcial, sin lista nominal ni fechas individuales verificadas. |
 | 12 | Anexo 10 describe canalización; falta prueba de atenciones reales si existieron. |
-| 13 | Existen guion y fotografía de reunión reportada del 24/10; faltan constancias nominativas y prueba de explicación específica de uso de áreas. |
+| 13 | Existe guion y una explicación de riesgos en el lugar de trabajo reportada por su facilitador Francisco; falta acreditación nominativa y alcance concreto sobre cada área. |
 | 14 | **APORTAR** Anexo 9 con cuatro firmas como evidencia del **recorrido realizado el 04/09**, sin afirmar periodicidad acreditada. |
 | 15 | **APORTAR** Anexo 9 del 04/09: ya tiene cuatro firmas y subsana el defecto formal objetado; falta complementar nombres de 5.2 sin alterar original. |
 | 16 | Factura 1628 corresponde a cámaras, no ventilación de personal; falta orden/bitácora específica. |
@@ -29,7 +29,7 @@
 | 24 | **APORTAR COMO EVIDENCIA NUEVA** el Anexo 9 firmado para medida antes sin prueba; cotejar contenido y dar seguimiento. |
 | 25 | Temario y hoja prefirmada NO prueban capacitación; impartir sesión real y registrar al finalizar. |
 | 26 | Lista prefirmada NO prueba inducción; realizar y documentar inducción verdadera. |
-| 27 | Existen guion y fotografía de reunión; queda por acreditar explicación concreta de señales y firmas de asistentes. |
+| 27 | Se aportan guion y foto de reunión como antecedente; falta probar específicamente que se explicó la señalización y recabar asistencia, sin atribuir esos temas a la foto. |
 | 28 | Existe diagnóstico preliminar; completar NOM-030 con observación/cotejo por áreas. |
 | 29 | Diagnóstico inicial lista áreas; falta resultados verificables y controles por área. |
 | 30 | Diagnóstico requiere identificar requisitos normativos aplicables y su situación real. |
