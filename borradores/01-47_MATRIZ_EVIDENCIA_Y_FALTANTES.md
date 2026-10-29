@@ -44,7 +44,7 @@
 | 34 | SOPORTE LOCALIZADO | `2 visita/Anexo 20 1.pdf` firmado por responsable SST | No se ha acreditado difusión del mecanismo | **APROBADO INTERNAMENTE PARA OFRECER:** mecanismo escrito; nota complementaria 4.2 solo si consta |
 | 35 | SOPORTE LOCALIZADO | `2 visita/Anexo 21.pdf` del 07/09, cinco procedimientos firmados | Texto original menciona «asientos disponibles»; actualmente no se acreditan sillas | **APROBADO INTERNAMENTE PARA OFRECER:** cinco procedimientos; aclaración de sillas EN HOJA APARTE |
 | 36 | PENDIENTE | Anexo 19 | Acreditar aplicación real de acciones de la relación | APORTE PARCIAL: primer registro auténtico de uso cuando exista |
-| 37 | PARCIAL | `2 visita/Anexo 22.pdf`, dos firmas | Faltan firmas de miembros de CSH; ninguna firma retroactiva | **MENCIONAR SIN CERRAR:** avanzar con constancia nueva fechada realmente, si se realiza |
+| 37 | PARCIAL | Anexo 22 EXISTENTE, 07/09/2026, foja 59: firmas de Yahaira y Francisco | STPS observó firmas de integrantes CSH aún no reflejadas; documento original no se rehace | **OFRECER ANEXO 22 COMO SOPORTE PARCIAL**; constancia nueva solo si se realiza otra comunicación real |
 | 38 | PENDIENTE | Temario CSH / referencias competencia | Demostrar competencias reales; no hay DC-3 | PLAN: evaluar competencias auténticas; no DC-3 inventada |
 | 39 | PENDIENTE | Anexo 19 | Seguimiento fechado, responsable, avance y evidencia | APORTE PARCIAL: bitácora con primer avance REAL, si existe |
 | 40 | PENDIENTE | Anexo 19 | Conservación documental 2 años y archivo/registro verificable | APORTE PARCIAL: aprobar y acreditar archivo documental real |
@@ -54,7 +54,7 @@
 | 44 | NO CUMPLIDO | Dirección informa cotización en proceso de escaleras | Sin obra; documentar cotizaciones reales y controles de riesgo | COTIZACIÓN EN TRÁMITE, no corrección concluida |
 | 45 | NO CUMPLIDO | Dirección informa cotización en proceso de descansos | Sin obra; documentar cotizaciones reales y controles de riesgo | COTIZACIÓN EN TRÁMITE, no corrección concluida |
 | 46 | NO CUMPLIDO | Dirección informa cotización en proceso de antiderrapantes | Sin instalación; cotización y pruebas después de colocar | COTIZACIÓN EN TRÁMITE, no instalación |
-| 47 | INSTALACIÓN REPORTADA / NO VERIFICADA | Señales instaladas según usuario y foto histórica de Anexo 11 | No hay fotos actuales de cada salida ni verificación completa en el centro | OFRECER MANIFESTACIÓN DE INSTALACIÓN; validar físicamente y anexar fotografías actuales |
+| 47 | EVIDENCIA FOTOGRÁFICA PARCIAL | Anexo EF-01 privado: cuatro JPEG nuevos; fotos 3 y 4 muestran señales verdes en dos puntos visibles, según usuario | Identificar ubicaciones, verificar salidas restantes y visibilidad; foto no prueba cobertura integral | **OFRECER ANEXO EF-01** para señalización visible; pendiente revisión completa en centro |
 
 ## Reglas de control
 - La fecha del acta inicial es 01/09/2026; los escritos del 04/09 en adelante solo pueden demostrar **acciones posteriores**. No retrofechar.
