@@ -39,7 +39,7 @@
 | 34 | **APORTAR** Anexo 20 1.pdf firmado: mecanismo escrito ante riesgo grave; **sin declarar comunicación a plantilla**. |
 | 35 | **APORTAR** Anexo 21: cinco procedimientos firmados; aclaración independiente sobre sillas aún no disponibles, sin descalificar el resto. |
 | 36 | Relación de acciones propuesta; falta evidencia de su aplicación efectiva. |
-| 37 | **APORTAR COMO PARCIAL** Anexo 22 con dos firmas y completar, en constancia nueva y fecha real, firmas de los demás integrantes CSH. |
+| 37 | **APORTAR EXISTENTE** Anexo 22 del 07/09, firmado por Yahaira y Francisco. No repetirlo; completar solo en nueva comunicación real si corresponde a firmas faltantes CSH. |
 | 38 | Hay temario; sin DC-3 ni prueba suficiente de competencia; buscar solo constancias auténticas. |
 | 39 | Existe formato de seguimiento; faltan resultados, responsables y fechas reales. |
 | 40 | Se prevé resguardo documental; falta control y ubicación real de archivo por dos años. |
@@ -49,7 +49,7 @@
 | 44 | La adecuación de escaleras se está cotizando según Dirección; sin ejecución material. Pedir cotizaciones y registrar controles reales de riesgo. |
 | 45 | La adecuación de descansos se está cotizando según Dirección; sin obra. Requiere mediciones, propuesta y control real del riesgo. |
 | 46 | Los antiderrapantes están en proceso de cotización según Dirección; aún no instalados. Aportar cotización auténtica e imágenes solo tras la colocación. |
-| 47 | Dirección confirma señalización instalada; existen fotos históricas, faltan imágenes actuales por salida y verificación de cobertura total ante STPS. |
+| 47 | **APORTAR EF-01:** fotografías nuevas muestran dos señalamientos verdes de salida en puntos visibles. Falta verificar todas las salidas; extintores y Cámara 2 son evidencias complementarias de prevención. |
 
 ## Planes breves por área (fases I, II, III)
 - **1–6:** [01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md](01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md).
