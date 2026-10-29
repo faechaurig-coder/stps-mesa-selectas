@@ -10,13 +10,13 @@
 ## Qué podemos presentar con confianza, tras cotejo final de originales
 | Medidas | Documento localizado | Declaración POSITIVA y delimitada |
 |---|---|---|
-| **6** | Protocolo y acta de comisión mixta del 06/09, cuatro firmas | «Se integró la comisión del protocolo y se documentó con acta firmada»; posterior a la visita |
-| **14, 15** | Anexo 9: recorrido 04/09, cuatro firmas | «Se practicó y documentó recorrido posterior; se subsanó el defecto de firmas del acta antes aportada»; corroborar alcance de cada medida |
+| **6** | **Acta** de comisión del protocolo del 06/09, cuatro firmas | OFRECER el acta, posterior a visita. No declarar firmado el protocolo por separado; no confundir con comisión del RIT |
+| **14, 15** | Anexo 9: recorrido 04/09, cuatro firmas | OFRECER. **14:** registro de ese recorrido, no periodicidad. **15:** las cuatro firmas corrigen la objeción de la primera entrega |
 | **23, 24** | El mismo Anexo 9 con firmas | «Se aporta por primera vez evidencia de recorrido/documentación que la primera entrega no contenía» |
-| **33, 34** | Anexo 20 firmado | «Se formalizó designación SST y un mecanismo de actuación ante riesgo»; falta complementar fecha/acceso/difusión según corresponda |
+| **33, 34** | Anexo 20 1.pdf firmado | OFRECER designación y mecanismo. En hoja aparte, completar fecha de designación/acceso 4.2 si es verificable. No afirmar difusión |
 | **35** | Anexo 21 con cinco procedimientos y firma | «Se elaboraron los procedimientos exigidos»; nota independiente sobre asientos aún no disponibles |
 | **37** | Anexo 22 con dos firmas | «Se elaboró y suscribió comunicación por responsables»; aún faltan firmas de integrantes CSH, **no de plantilla general** |
-| **5** | Recibos semanales de agosto en carpeta privada `Nominas` | «Se dispone de un conjunto de CFDI de nómina»; presentar solo documentos cotejados, sin afirmar cobertura total |
+| **5** | Recibos semanales de agosto localizados en carpeta privada `Nominas` | **MENCIONAR sin cierre:** CFDI localizados, **sin conciliar**; NO presentar como paquete completo ni como recibos cotejados |
 | **17** | Programa firmado de mantenimiento 05–10/10 | «Se formuló un programa de mantenimiento»; NO afirmar trabajos ejecutados |
 | **18–22** | Acta CSH 04/09 y programa 05/09 | «Se iniciaron la integración y planeación posteriores a inspección»; STPS objetó fecha y 7.4 NOM-019; acreditar corrección aparte |
 | **7–12, 28–32, 36, 39–41** | Anexos previos, diagnósticos y relación de acciones | Mostrar organización y planes; **una actualización firmada hoy con datos de verdad** puede aportar nuevo avance documental, aunque falte ejecución |
