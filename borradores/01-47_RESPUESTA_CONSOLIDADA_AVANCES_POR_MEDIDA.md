@@ -1,5 +1,5 @@
 # Medidas 01–47 · Respuesta breve de avances y pendientes
-**MATRIZ DE APOYO A LA PRESENTACIÓN: no es acta de cumplimiento ni reemplaza los anexos.** Fuente rectora `00_MESA_DE_TRABAJO.md` y validación a cargo de Cursor. Cada frase es una **propuesta de manifestación limitada al material existente**; no afirmar que un documento fue entregado sin anexarlo físicamente.
+**ENFOQUE CÓMO SÍ:** ofrecer las pruebas firmadas e históricas pertinentes según lo que realmente acreditan. «Aportar» es instrucción de integración interna, no afirmación de aceptación STPS. No es acta de cumplimiento ni reemplaza anexos. Fuente rectora `00_MESA_DE_TRABAJO.md` y validación a cargo de Cursor. Cada frase es una **propuesta de manifestación limitada al material existente**; no afirmar que un documento fue entregado sin anexarlo físicamente.
 
 | Medida | Redacción breve para responder con transparencia |
 |---:|---|
@@ -8,7 +8,7 @@
 | 3 | Hay folio de SOLICITUD CFCRL; depósito efectivo sin acreditar. |
 | 4 | RIT prevé permiso; revisar que texto y aplicación cumplan, sin inventar casos. |
 | 5 | Hay recibos semanales de agosto en `Nominas`, además de cuatro previos; siguen **incompletos y sin conciliación** frente al corte y plantilla. |
-| 6 | Protocolo y acta mixta del 06/09 con firmas; ofrecer tras cotejo y señalar elaboración posterior. |
+| 6 | **APORTAR** protocolo y acta mixta del 06/09 con cuatro firmas como avance formal documentado posterior a la inspección. |
 | 7 | Hay análisis previo; se rehace aplicabilidad con condiciones reales y sin declarar sillas existentes. |
 | 8 | Anexo 9 menciona puestos, falta identificar a cada persona y su exposición. |
 | 9 | Anexo 8 contiene puntuación objetada; elaborar fichas y calificación individual correcta. |
@@ -16,8 +16,8 @@
 | 11 | Anexo 10 trae cuatro firmas de Comisión; **no se impartió la plática** ni hay lista auténtica de participantes. |
 | 12 | Anexo 10 describe canalización; falta prueba de atenciones reales si existieron. |
 | 13 | Hay guion y procedimiento de áreas; falta impartición y firmas reales de trabajadores. |
-| 14 | Anexo 9 contiene recorrido del 04/09 firmado; cotejar suficiencia del registro ocular. |
-| 15 | Anexo 9 del 04/09 ahora tiene cuatro firmas; subsana defecto formal objetado de firmas, **sin acreditar por sí solo todos los extremos**; 5.2 carece de nombres. |
+| 14 | **APORTAR** Anexo 9 del 04/09 firmado por los cuatro: evidencia concreta de recorrido de verificación posterior, sujeta al alcance de la medida. |
+| 15 | **APORTAR** Anexo 9 del 04/09: ya tiene cuatro firmas y subsana el defecto formal objetado; falta complementar nombres de 5.2 sin alterar original. |
 | 16 | Factura 1628 corresponde a cámaras, no ventilación de personal; falta orden/bitácora específica. |
 | 17 | Programa 05–10/10 existente; falta bitácora firmada de trabajos REALMENTE ejecutados. |
 | 18 | Acta CSH 04/09 existe; STPS objeta fecha posterior al 01/09 e incumplimiento del numeral 7.4 NOM-019; regularización solo hacia adelante. |
@@ -25,8 +25,8 @@
 | 20 | Programa del 05/09 existe; STPS lo rechazó porque el acta constitutiva no satisface 7.4, **no por cronograma aislado**. |
 | 21 | Acta 04/09 identifica coordinador; STPS objeta fecha posterior y numeral 7.4. |
 | 22 | Acta 04/09 identifica secretario; STPS objeta fecha posterior y numeral 7.4. |
-| 23 | Anexo 9 del 04/09 firmado: **nuevo soporte** frente a primera entrega en la que STPS dijo no haber recibido evidencia para este punto; cotejar requisitos. |
-| 24 | Anexo 9 del 04/09 firmado: **nuevo soporte** para medida que STPS consideró sin evidencia en la primera entrega; cotejar contenido. |
+| 23 | **APORTAR COMO EVIDENCIA NUEVA** el Anexo 9 firmado, inexistente como prueba de la medida en primera entrega; cotejar requisitos específicos. |
+| 24 | **APORTAR COMO EVIDENCIA NUEVA** el Anexo 9 firmado para medida antes sin prueba; cotejar contenido y dar seguimiento. |
 | 25 | Temario y hoja prefirmada NO prueban capacitación; impartir sesión real y registrar al finalizar. |
 | 26 | Lista prefirmada NO prueba inducción; realizar y documentar inducción verdadera. |
 | 27 | Existe guion general; falta explicar señales reales y documentar asistentes. |
@@ -35,11 +35,11 @@
 | 30 | Diagnóstico requiere identificar requisitos normativos aplicables y su situación real. |
 | 31 | Relación inicial existe; integrar acciones, responsables propuestos, plazos aprobados y pruebas. |
 | 32 | Falta mecanismo documentado de actualización basado en cambios reales. |
-| 33 | Anexo 20 firmado designa responsable SST; falta cotejar fecha y acceso a información. |
-| 34 | Anexo 20 incluye respuesta ante riesgo; falta demostrar comunicación/implementación. |
-| 35 | Anexo 21 firmado contiene procedimientos; nota aclaratoria por mención de asientos inexistentes. |
+| 33 | **APORTAR** Anexo 20 firmado: documenta designación del responsable SST; completar fecha/acceso a información mediante aclaración real, sin retrofechar. |
+| 34 | **APORTAR** Anexo 20: mecanismo escrito de respuesta ante riesgo grave; complementar evidencia de comunicación real cuando exista. |
+| 35 | **APORTAR** Anexo 21: cinco procedimientos firmados; aclaración independiente sobre sillas aún no disponibles, sin descalificar el resto. |
 | 36 | Relación de acciones propuesta; falta evidencia de su aplicación efectiva. |
-| 37 | Anexo 22 tiene dos firmas, pero STPS pidió **firmas de los integrantes de la Comisión**; no exigir erróneamente firma de toda la plantilla en esta medida. |
+| 37 | **APORTAR COMO PARCIAL** Anexo 22 con dos firmas y completar, en constancia nueva y fecha real, firmas de los demás integrantes CSH. |
 | 38 | Hay temario; sin DC-3 ni prueba suficiente de competencia; buscar solo constancias auténticas. |
 | 39 | Existe formato de seguimiento; faltan resultados, responsables y fechas reales. |
 | 40 | Se prevé resguardo documental; falta control y ubicación real de archivo por dos años. |
