@@ -10,11 +10,11 @@
 
 ## Orden de revisión de bajo costo
 1. **Detectar sobreafirmaciones:** examina la matriz de respuesta, NO los 47 originales. Abre el archivo físico solo donde se afirme «hay acta», «firma», «se hizo», «se informó», «existe programa». Devuelve coincidencia o corrección.
-2. **Comisión (18–26):** valida acta de 04/09, contenido, roles y objeción específica STPS; **no marcar 18–22 cumplidas**. Confirma que capacitación (25–26) no sucedió; **excluir hoja prefirmada**.
-3. **Anexos 9,10,20,21,22:** verifica fechas/firmas, contradicción 64 vs 68 y nombres faltantes en 5.2; **Anexo 10: aclarar si falta firma de la cuarta integrante**. **Anexo 21:** se mencionan asientos, pero hoy no hay sillas; anotar contradicción, NO alterar original firmado.
-4. **Capacitaciones (11–13, 25–27):** coteja guion/fotografía CCTV 24/10. Foto no comprueba contenidos ni asistentes; **no afirmar que hubo plática si ESTADO dice que no**.
-5. **Laboral/accidente (1–5,42–43):** comprobar de forma reservada SI/NO existencia de IMSS agosto/septiembre, recibos completos, depósito real CFCRL y acuse SIAAT ACC/1399/2026. No copiar datos personales ni confundir solicitud CFCRL con depósito.
-6. **Mantenimiento y físico (16–17,44–47):** identificar si hay ejecución firmada / factura de aire de personal; distinguir foto antigua de señal vs cobertura actual. Escaleras, descansos, cintilla y sillas permanecen abiertos según empresa.
+2. **Comisión (18–26):** objeción de medidas 18,19,21,22 confirmada: acta 04/09 posterior a inspección + 7.4 NOM-019, sin incisos desglosados. Medida 20 programa 05/09 rechazado por esa integración. Para 23–24, Anexo 9 **nuevo soporte**. Capacitaciones 25–26 NO ocurrieron; hoja prefirmada excluida.
+3. **Anexos 9,10,20,21,22:** la cuarta firma de Anexo 10 YA está confirmada. Mantener diferencia 64 vs 68 y nombres faltantes 5.2. Anexo 21 habla de asientos inexistentes, no alterar el original. En medida 37 faltan firmas de CSH, no de toda la plantilla.
+4. **Capacitaciones (11–13, 25–27):** Cursor confirmó NO hubo pláticas y NO hay foto/video en carpeta. **Retirar toda referencia a CCTV 24/10 de anexos y respuesta**. Verificar solo sesiones nuevas, si las hay.
+5. **Laboral/accidente (1–5,42–43):** ya constatados: sin IMSS nuevo de agosto/septiembre; carpeta Nominas con recibos semanales incompletos y no conciliados; sin acuse SIAAT; solicitud CFCRL no es depósito. Solo revisar cambios NUEVOS, sin datos personales.
+6. **Mantenimiento y físico (16–17,44–47):** verificado que NO hay bitácora ni factura aire de personal; 44–46 abiertos y 47 PENDIENTE sin fotos actuales. Buscar solo documento/acción NUEVA. `Nominas\\Cristobal.pdf` es recibo salarial, no bitácora.
 7. **Planes por fases:** revisar que cada propuesta sea viable y vinculada al hallazgo. Marcar «propone, sin aprobación» donde falta responsable definitivo o fecha. Un plan NO prueba instalación, capacitación, depósito, aviso ni adecuación.
 
 ## Resultado requerido (solo ESTADO.md; no reescribir 21 documentos)
