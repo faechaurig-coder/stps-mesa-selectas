@@ -4,18 +4,18 @@
 | Medida | Redacción breve para responder con transparencia |
 |---:|---|
 | 1 | Archivo IMSS anterior; solicitar y conciliar movimientos al 01/09 y aclarar baja observada. |
-| 2 | Hay RIT; falta acta de comisión mixta específicamente del RIT. Jurídico la revisa. |
-| 3 | Hay folio de SOLICITUD CFCRL; depósito efectivo sin acreditar. |
-| 4 | RIT prevé permiso; revisar que texto y aplicación cumplan, sin inventar casos. |
+| 2 | La empresa confirma que el Reglamento Interior no se ha concluido: elaborar el instrumento y constituir comisión mixta específica. |
+| 3 | Existe antecedente de SOLICITUD CFCRL, pero no reglamento concluido ni constancia de depósito. Formalizar primero. |
+| 4 | El RIT no está formalizado; Jurídico debe incorporar y verificar el permiso de paternidad en el texto definitivo. |
 | 5 | Se localizaron recibos semanales de agosto en `Nominas` y cuatro de primera entrega: **localizados, sin conciliar** por persona ni contra el corte. No ofrecer paquete completo. |
 | 6 | **APORTAR** acta de comisión del protocolo del 06/09 con cuatro firmas; no afirmar que el protocolo separado está firmado ni confundir con RIT. |
 | 7 | Hay análisis previo; se rehace aplicabilidad con condiciones reales y sin declarar sillas existentes. |
 | 8 | Anexo 9 menciona puestos, falta identificar a cada persona y su exposición. |
 | 9 | Anexo 8 contiene puntuación objetada; elaborar fichas y calificación individual correcta. |
 | 10 | Programa de pausas planteado; verificar aplicación real por puesto/persona y ajustar. |
-| 11 | Anexo 10 trae cuatro firmas de Comisión; **no se impartió la plática** ni hay lista auténtica de participantes. |
+| 11 | Anexo 10 tiene cuatro firmas CSH; usuario reporta una reunión el 24/10 y aporta fotografía, sin lista nominal ni prueba suficiente de contenidos. No se declara capacitación formal. |
 | 12 | Anexo 10 describe canalización; falta prueba de atenciones reales si existieron. |
-| 13 | Hay guion y procedimiento de áreas; falta impartición y firmas reales de trabajadores. |
+| 13 | Existen guion y fotografía de reunión reportada del 24/10; faltan constancias nominativas y prueba de explicación específica de uso de áreas. |
 | 14 | **APORTAR** Anexo 9 con cuatro firmas como evidencia del **recorrido realizado el 04/09**, sin afirmar periodicidad acreditada. |
 | 15 | **APORTAR** Anexo 9 del 04/09: ya tiene cuatro firmas y subsana el defecto formal objetado; falta complementar nombres de 5.2 sin alterar original. |
 | 16 | Factura 1628 corresponde a cámaras, no ventilación de personal; falta orden/bitácora específica. |
@@ -29,7 +29,7 @@
 | 24 | **APORTAR COMO EVIDENCIA NUEVA** el Anexo 9 firmado para medida antes sin prueba; cotejar contenido y dar seguimiento. |
 | 25 | Temario y hoja prefirmada NO prueban capacitación; impartir sesión real y registrar al finalizar. |
 | 26 | Lista prefirmada NO prueba inducción; realizar y documentar inducción verdadera. |
-| 27 | Existe guion general; falta explicar señales reales y documentar asistentes. |
+| 27 | Existen guion y fotografía de reunión; queda por acreditar explicación concreta de señales y firmas de asistentes. |
 | 28 | Existe diagnóstico preliminar; completar NOM-030 con observación/cotejo por áreas. |
 | 29 | Diagnóstico inicial lista áreas; falta resultados verificables y controles por área. |
 | 30 | Diagnóstico requiere identificar requisitos normativos aplicables y su situación real. |
@@ -46,10 +46,10 @@
 | 41 | Se prevé resultado de seguimiento; faltan cierres y soportes comprobables. |
 | 42 | Anexo 24 define procedimiento; falta aviso oficial verificable de ACC/1399/2026. |
 | 43 | No hay acuse SIAAT; recuperar o gestionar aviso oficial con fecha real. Cualquier afirmación sobre extemporaneidad requiere revisión de hechos y Jurídico. |
-| 44 | Dimensiones de escaleras no corregidas; estudio técnico y controles inmediatos según riesgo. |
-| 45 | Descansos de escaleras no corregidos; evaluación técnica y protección real. |
-| 46 | Antiderrapantes no colocados; instalar y fotografiar solo tras ejecución. |
-| 47 | Medida PENDIENTE: foto histórica en primera entrega; ninguna foto actual de todas las salidas ni verificación física completa. |
+| 44 | La adecuación de escaleras se está cotizando según Dirección; sin ejecución material. Pedir cotizaciones y registrar controles reales de riesgo. |
+| 45 | La adecuación de descansos se está cotizando según Dirección; sin obra. Requiere mediciones, propuesta y control real del riesgo. |
+| 46 | Los antiderrapantes están en proceso de cotización según Dirección; aún no instalados. Aportar cotización auténtica e imágenes solo tras la colocación. |
+| 47 | Dirección confirma señalización instalada; existen fotos históricas, faltan imágenes actuales por salida y verificación de cobertura total ante STPS. |
 
 ## Planes breves por área (fases I, II, III)
 - **1–6:** [01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md](01-06_PLAN_FASES_ADMINISTRACION_LABORAL.md).
