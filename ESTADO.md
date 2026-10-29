@@ -74,3 +74,17 @@ AVANCE PARCIAL, sí se menciona, no se cierra:
 NO OFRECER COMO PRUEBA DE EJECUCIÓN: 1, 11, 12, 13, 16, 25, 26, 27, 38, 42, 43, 44, 45, 46 y 47. La 4 no se ofrece todavía: no abrí el reglamento en esta pasada y la cláusula no queda localizada hasta que Jurídico señale el párrafo.
 
 El escrito ya dejó la prórroga entre corchetes. Así se queda. La hoja prefirmada de la comisión y la captura que no está en la carpeta siguen fuera.
+
+## QA final del ZIP — 29 de octubre de 2026, 14:40
+
+Paquete: `ENTREGA_STPS_SELECTAS_EXPEDIENTE_INTEGRADO_29OCT.zip`, copiado en `ENTREGA_FINAL_REVISION`. No es una auditoría nueva.
+
+Los PDF A-01, A-02, A-03, A-04, B-01 y B-02 son idénticos a los de `2 visita`. En el Word, las firmas azules se ven en el acta del protocolo (cuatro), en el Anexo 20 y en el Anexo 21. El Anexo 9 va por el mismo archivo, una sola vez, para 14, 15, 23 y 24.
+
+Aprobado para presentar, con el alcance ya dicho: 6, 14, 15, 23, 24, 33, 34 y 35.
+
+Avance parcial, sin cierre: 5 (localizados, sin conciliar), 11 y 12 (Anexo 10, no es la plática), 17 (solo el programa; la línea de Mantenimiento va en blanco), 18 a 22 (sin anexar el acta objetada) y 37 (dos firmas; faltan las de la comisión en hoja nueva, no en el original).
+
+Correcciones de forma, no de fondo: en el oficio, «SOCIAL» y «PRESENTE» van pegados. El Anexo 9 trae una hoja en blanco al final; el Anexo 10 y el Anexo 22 también traen una segunda hoja casi vacía. El programa impreso dice que en esa semana se coloca cintilla y letreros; el texto del paquete lo trata como programa, y así debe leerse, no como obra hecha.
+
+Antes de firmar: fecha real, nombre y carácter del representante, firma, fojas que sí se anexen, y responsables y fechas de los planes. Las tres notas se firman solo si el hecho es cierto. La de la medida 37, solo después de la reunión real.
