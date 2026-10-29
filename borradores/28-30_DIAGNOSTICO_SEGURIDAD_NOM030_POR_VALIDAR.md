@@ -9,7 +9,7 @@ Se utiliza el enfoque documental por áreas del numeral 6.2 de NOM-030, consider
 | Área / proceso | Condición o riesgo por verificar | Requisito/referencia a contrastar | Evidencia / resultado |
 |---|---|---|---|
 | Escaleras y accesos | Ancho, descansos, superficie resbaladiza; observados en emplazamiento | NOM-001 y medidas 44–46 | **Incumplimiento reconocido; sin adecuación/antiderrapante** |
-| Salidas / pasillos | Señalización, bloqueo y rutas | NOM-026 y medida 47 | Hay foto histórica; **cobertura actual pendiente** |
+| Salidas / pasillos | Señalización, bloqueo y rutas | NOM-026 y medida 47 | Foto de primera entrega; **medida 47 PENDIENTE**, sin fotos nuevas ni verificación física completa |
 | Almacén / recepción / surtido | Orden, estibas, tránsito y maniobras | NOM-001, NOM-006 si aplica; medidas 13–15 | Recorrido CSH 04/09; verificar situación actual |
 | Tabla / embarque | Bipedestación, golpes, cargas y pausas | Disposiciones de bipedestación; 7–12 | Evaluaciones individuales pendientes; **sin sillas** |
 | Patio y circulación de equipos | Cruce peatones, patines y montacargas | Requisitos aplicables a equipos/manejo de materiales | Levantamiento actual pendiente |
@@ -23,7 +23,7 @@ Se utiliza el enfoque documental por áreas del numeral 6.2 de NOM-030, consider
 1. Cuatro medidas físicas 44–47: las primeras tres permanecen incumplidas y la cuarta requiere verificación de cobertura.
 2. Comisión CSH: actas y recorridos posteriores a la primera inspección; constitución fue objetada.
 3. Bipedestación: exposición por puesto identificada, pero faltan evaluaciones por persona, asientos y constancias de trabajadores.
-4. Ventilación/mantenimiento: existen programa y factura ajena al equipo exigido; sin ejecución comprobada.
+4. Ventilación/mantenimiento: existen programa y factura ajena al equipo exigido; Cursor confirmó **sin bitácora real ni factura del aire de personal**.
 5. Accidentes: procedimiento interno, sin acuse SIAAT aportado.
 
 ## 3. Validación y vigencia
