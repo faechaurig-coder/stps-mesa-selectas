@@ -1,7 +1,7 @@
 # Medidas 44–47 · Escaleras, antiderrapantes y señalización
 **Plan de atención física; no contiene certificación de obra ni cierre de seguridad.**
 
-**Estado reconocido por la empresa.** No se harán adecuaciones de escaleras/descansos antes del vencimiento (44–45); no están instalados los antiderrapantes (46). El Anexo 11 incluyó foto histórica de señal, pero **no hay fotos nuevas de todas las salidas**; medida 47 PENDIENTE, su inspección es en el centro. Los riesgos que puedan causar lesiones deben controlarse inmediatamente, aun si las obras quedan pendientes.
+**Estado informado por la empresa.** Las intervenciones de escaleras, descansos y antiderrapantes (44–46) **se están cotizando, todavía sin obra ejecutada**. Dirección confirma que los letreros de salida (47) **ya están instalados**; existen fotos históricas, pero falta verificar y fotografiar actualmente cada salida. Los riesgos que puedan causar lesiones deben controlarse inmediatamente, aun si las obras quedan pendientes.
 
 | Fase | Acción operativa | Responsable propuesto | Evidencia |
 |---|---|---|---|
@@ -9,4 +9,4 @@
 | **II. Solución técnica** | Evaluar cumplimiento de ancho/descansos con personal técnico; presupuestar modificaciones; instalar antiderrapantes apropiados donde se requiera | Dirección / Mantenimiento | Mediciones, proyecto/orden, aprobación y fotos tras ejecución |
 | **III. Comprobar señalización** | Inventariar todas las salidas, revisar señal verde por punto, ubicación y visibilidad; colocar las que falten | SST / Mantenimiento | Croquis y fotos actuales por ubicación |
 
-**Estado:** 44, 45 y 46 NO CUMPLIDOS; **47 PENDIENTE** de verificación física y fotografías actuales. **Fecha de ejecución:** [solo compromiso que Dirección apruebe]. El plan **no sustituye** la adecuación ni elimina el riesgo o una posible observación de STPS.
+**Estado:** 44–46 NO CUMPLIDOS, en fase reportada de cotización. **47 INSTALADA SEGÚN DIRECCIÓN, PENDIENTE DE VERIFICACIÓN** física y fotos actuales por salida. **Fecha de ejecución:** [solo compromiso que Dirección apruebe]. El plan **no sustituye** la adecuación ni elimina el riesgo o una posible observación de STPS.
