@@ -7,7 +7,7 @@
 | 44 | Requerimiento de ancho de escalera | **No cumplido** según Dirección; requiere estudio técnico y medida de protección efectiva |
 | 45 | Requerimiento de descansos | **No cumplido** según Dirección; mantener identificado y proteger tránsito |
 | 46 | Requerimiento antiderrapantes | **No instalado**; falta colocación y comprobación real |
-| 47 | Anexo 11, fotografías de señal verde | **Parcial:** fotografías históricas; falta comprobar distribución y estado ACTUAL en todo el centro |
+| 47 | Anexo 11, fotografías de señal verde | **PENDIENTE:** foto histórica de primera entrega; sin fotos nuevas ni comprobación ACTUAL en todo el centro |
 
 ## Evidencia útil sin falsear el estado
 - Accidentes: copia verificable del aviso STPS si existe, fecha de presentación y acuse. Si no existe, marcar expresamente **sin acuse**.
@@ -17,4 +17,4 @@
 
 **Prioridad de seguridad:** no esperar al expediente documental para controlar condiciones que expongan a lesiones. Si una condición es peligrosa, deben intervenir responsables operativos y técnicos de inmediato.
 
-**Estado: 42–43, 44–46 abiertos; 47 parcial.**
+**Estado: 42–43, 44–46 abiertos; 47 PENDIENTE.**
