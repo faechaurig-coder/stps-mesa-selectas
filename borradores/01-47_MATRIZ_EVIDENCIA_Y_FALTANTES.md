@@ -10,26 +10,26 @@
 | 2 | PENDIENTE | RIT / STPS_FINAL | Acta de comisión mixta específicamente del Reglamento Interior |
 | 3 | PENDIENTE | RIT; folio CFCRL-REGLAMENTO-20260908-63162-18267 | Acuse de depósito, no solo solicitud |
 | 4 | PENDIENTE | RIT | Cotejo con abogados y prueba de aplicación, cuando exista supuesto |
-| 5 | PARCIAL | Carpetas Nominas y Nominas entrega; comprobantes agosto | Conciliar recibos al 30/08 con 68 del acta y fechas reales |
+| 5 | PARCIAL | Carpeta local `Nominas`: recibos semanales de agosto; además cuatro CFDI de primera entrega | Conjunto existente **no conciliado ni completo**; comprobar corte al 30/08 y 68 personas del acta |
 | 6 | SOPORTE LOCALIZADO | Acta comisión mixta protocolo (06/09); PRO-RH-PDG-001 | Cursor confirmar correspondencia íntegra, participación y documento firmado |
 | 7 | PENDIENTE | Anexo 8 | Rehacer aplicabilidad; no afirmar sillas disponibles |
 | 8 | PARCIAL | Anexo 9 (apartado 5.2) | Identificación con nombre y puesto de CADA persona |
 | 9 | PENDIENTE | Anexo 8 | Ficha y puntuación individual; revisar clasificación de 9 puntos |
 | 10 | PENDIENTE | Anexo 8; procedimiento de pausas | Relacionar pausas con evaluación y acreditar implementación real |
-| 11 | PENDIENTE | Anexo 10; guía de charla; captura CCTV 24/10 | Constancia por personal; foto no demuestra contenidos ni asistentes |
+| 11 | PENDIENTE | Anexo 10 (cuatro firmas CSH), guía de capacitación no impartida | Faltan charla real y lista firmada por participantes; el Anexo 10 NO es esa lista |
 | 12 | PENDIENTE | Anexo 10: canalización prevista | Registros reales de casos/canalización, si existieron; no inventar |
-| 13 | PENDIENTE | Guía de capacitación / captura CCTV | Información sobre áreas y evidencia de entrega al personal |
+| 13 | PENDIENTE | Guía de capacitación y Anexo 21 | Impartir contenido sobre uso de áreas y obtener asistencia auténtica; **no hay foto o video de plática en carpeta** |
 | 14 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, firmado | Verificar periodicidad/contenido del registro y observación STPS |
-| 15 | SOPORTE LOCALIZADO | Anexo 9: verificación posterior al ACC/1399/2026 | Cotejar alcance y firmas de verificación |
+| 15 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, ahora con las cuatro firmas | En primera entrega STPS objetó falta de firmas; se corrigió ese defecto. Faltan nombres individuales de 5.2, y aclarar 64 vs 68 sin modificar actas |
 | 16 | PENDIENTE | Factura 1628 sobre cámaras | Prueba de mantenimiento de ventilación de áreas de personal |
 | 17 | PENDIENTE | Programa mantenimiento 05–10/10 | Bitácora de trabajos efectivamente ejecutados y firma Cristóbal Pazos |
-| 18 | PENDIENTE | Acta constitutiva CSH 04/09 | Subsanar observación de STPS sobre constitución/integración |
-| 19 | PENDIENTE | Acta CSH 04/09 | Datos NOM-019 y representatividad; cotejo del original |
-| 20 | PENDIENTE | Programa recorridos; acta CSH | Depende de integración válida, cronograma y ejecución |
-| 21 | PENDIENTE | Acta CSH: coordinador | Acreditación del nombramiento dentro de integración válida |
-| 22 | PENDIENTE | Acta CSH: secretario | Acreditación del nombramiento dentro de integración válida |
-| 23 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09 | Validación de contenido contra medida emplazada |
-| 24 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09 | Validación de contenido contra medida emplazada |
+| 18 | PENDIENTE | Acta CSH 04/09, posterior a inspección 01/09 | STPS: fecha posterior y **no cumplimiento del numeral 7.4 NOM-019**; oficio no especifica incisos |
+| 19 | PENDIENTE | Acta CSH 04/09 | STPS: fecha posterior al 01/09 y no cumple numeral 7.4; determinar faltantes con cotejo técnico, NO atribuir incisos a STPS |
+| 20 | PENDIENTE | Programa de recorridos 05/09 y acta CSH | STPS lo rechazó porque la constitución no cumple 7.4; **no por defecto independiente de cronograma** |
+| 21 | PENDIENTE | Acta CSH: coordinador | Misma objeción STPS: fecha posterior al 01/09 y acta no conforme al numeral 7.4 |
+| 22 | PENDIENTE | Acta CSH: secretario | Misma objeción STPS: fecha posterior al 01/09 y acta no conforme al numeral 7.4 |
+| 23 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, cuatro firmas | **Evidencia nueva a presentar**: STPS dijo que en primera entrega no se aportó prueba de esta medida; no afirmar valoración previa |
+| 24 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, cuatro firmas | **Evidencia nueva a presentar**: STPS dijo que en primera entrega no se aportó prueba; no afirmar valoración previa |
 | 25 | PENDIENTE | Lista de capacitación CSH prefirmada | Realizar capacitación, fecha y firmas posteriores reales; lista anterior NO utilizar |
 | 26 | PENDIENTE | Misma lista prefirmada | Inducción efectiva a integrantes y evidencia posterior |
 | 27 | PENDIENTE | Guía de capacitación | Explicar señales reales y documentar asistentes |
@@ -42,7 +42,7 @@
 | 34 | SOPORTE LOCALIZADO | Anexo 20, mecanismo de riesgo grave | Cotejar comunicación e implementación |
 | 35 | SOPORTE LOCALIZADO | Anexo 21, cinco procedimientos, firmado | Corregir por nota ACTUAL contradicción de 'asientos disponibles' |
 | 36 | PENDIENTE | Anexo 19 | Acreditar aplicación real de acciones de la relación |
-| 37 | SOPORTE LOCALIZADO | Anexo 22, firmado por Yahaira y Francisco | Cotejar comunicación; no equivale a firmas de toda la plantilla |
+| 37 | PARCIAL | Anexo 22: dos firmas (quien comunica y responsable SST) | STPS requiere firmas de **integrantes de la Comisión**, no de toda la plantilla; faltan las que no aparecen |
 | 38 | PENDIENTE | Temario CSH / referencias competencia | Demostrar competencias reales; no hay DC-3 |
 | 39 | PENDIENTE | Anexo 19 | Seguimiento fechado, responsable, avance y evidencia |
 | 40 | PENDIENTE | Anexo 19 | Conservación documental 2 años y archivo/registro verificable |
@@ -52,15 +52,14 @@
 | 44 | NO CUMPLIDO | Acta inspección / emplazamiento | Ancho de escaleras sin adecuación; controlar riesgos |
 | 45 | NO CUMPLIDO | Acta inspección / emplazamiento | Descansos de escaleras sin adecuación; controlar riesgos |
 | 46 | NO CUMPLIDO | Anexo 11/fotos históricas | Cintilla antiderrapante no colocada |
-| 47 | PARCIAL | Anexo 11, fotos de señalización | Recorrido de TODAS las salidas; fotos actuales/ubicación |
+| 47 | PENDIENTE | Anexo 11, foto de primera entrega | No hay fotos nuevas de todas las salidas ni revisión física completa; STPS reservó la constatación en centro |
 
 ## Reglas de control
 - La fecha del acta inicial es 01/09/2026; los escritos del 04/09 en adelante solo pueden demostrar **acciones posteriores**. No retrofechar.
 - El expediente `2421/000515/2026` y el emplazamiento `2421/ET/00107/2026` corresponden al SIQAL `ACC/1399/2026`. Evitar `ACC/1398/2026` tomado de una guía inicial.
 - Acta original: medida 31 declarada no aplicable; numeración del emplazamiento 31–47 corresponde a 32–48 originales.
 - El acta de recorrido del 04/09 registra 64 personas; la inspección del 01/09 señala 68. Aclarar con movimientos, no alterar números históricos.
-- Captura CCTV 24/10 12:11: acredita reunión visible en almacén, **no su duración, identidad de todas las personas ni contenidos**.
-- En nuevo escaneo del Anexo 10 (pág. 3 de `20261029131457193.pdf`), la casilla de Cecilia parece carecer de firma. Cursor debe cotejar original; el texto de la mesa alude a «cuatro firmas», que no se distinguen en esta copia.
+- Cursor confirmó **cuatro firmas de CSH** en Anexo 10, foja 39; no equivalen a firmas de plantilla ni prueban capacitación impartida.
 - Anexo 21 firmado (págs. 1–2 del mismo PDF) habla de «asientos disponibles». El usuario confirmó que actualmente **no hay sillas**, por lo que debe aclararse sin modificar el original firmado.
 - No usar como evidencia de realización la lista prefirmada de capacitación CSH (pág. 19 de `20261029131428576.pdf`); el propio `ESTADO.md` dice que la capacitación no se impartió.
 - La matriz es **control interno**, no declaración de cumplimiento, ni dictamen legal.
