@@ -51,3 +51,26 @@ No se marca cumplida ninguna medida de Falta. Soporte localizado no significa qu
 Escrito de presentación | `01-47_ESCRITO_PRESENTACION_PARCIAL_PARA_FIRMA.md` | no es un original | respaldo: parcial | La frase «sin solicitar prórroga» es una decisión de Dirección, no un hecho verificado. Dejarla entre corchetes hasta que Francisco la autorice. El resto no declara cumplido lo pendiente.
 
 Los siete planes dejan fechas y responsables entre corchetes. Así deben quedarse. Ningún plan prueba instalación, depósito, aviso, capacitación ni obra.
+
+## Cotejo Cursor — lote para ofrecer, 29 de octubre de 2026, 14:00
+
+Revisé el criterio «cómo sí» y la columna nueva de la matriz. No reabrí los PDF. El corte anterior sigue vigente. Esto es la decisión interna de qué sí se imprime. No es aceptación de STPS.
+
+APROBADO INTERNAMENTE PARA OFRECER, con el alcance escrito y nada más:
+
+- 6. `2 visita\Acta de protocolo de discriminacion.pdf`, 06/09/2026, cuatro firmas. Ofrecer el acta de la comisión del protocolo. No es la comisión del reglamento. No decir que el protocolo, como documento aparte, va firmado.
+- 14 y 15. `2 visita\Anexo 9.pdf`, recorrido 04/09/2026, cuatro firmas. En la 15 se ofrece porque la primera entrega fue rechazada por falta de firmas y esas firmas ya están. En la 14 se ofrece como el registro de ese recorrido, no como periodicidad cumplida.
+- 23 y 24. El mismo Anexo 9, como prueba que la primera entrega no ligó a esos dos números. No decir que STPS ya lo valoró.
+- 33 y 34. `2 visita\Anexo 20 1.pdf`, firmado por Francisco. Ofrecer la designación y el mecanismo. En nota aparte, no en el original: faltan la fecha de designación y la frase de acceso del 4.2. No decir que el mecanismo ya se comunicó a la plantilla.
+- 35. `2 visita\Anexo 21.pdf`, 07/09/2026, cinco procedimientos, firmado por Francisco. Ofrecerlo. La nota de que hoy no hay sillas va en hoja aparte. No corregir el original.
+
+AVANCE PARCIAL, sí se menciona, no se cierra:
+
+- 37. `2 visita\Anexo 22.pdf`, dos firmas. La constancia complementaria, si se hace, es hoja nueva con la fecha real. No se insertan firmas en el anexo del 07/09.
+- 5. La carpeta `Nominas` tiene recibos semanales de agosto, además de los cuatro de la primera entrega. Están localizados, no cotejados persona por persona. Corrección literal en la matriz, medida 5: cambiar «CFDI de agosto cotejados» por «CFDI de agosto localizados, sin conciliar». No imprimirlos como paquete completo.
+- 17. Solo el programa del 05 al 10/10. No hay bitácora de lo ejecutado.
+- 18 a 22. Se pueden mostrar como integración y programa posteriores al 01/09, diciendo la objeción: fecha y apartado 7.4. No se ofrecen como constitución válida.
+
+NO OFRECER COMO PRUEBA DE EJECUCIÓN: 1, 11, 12, 13, 16, 25, 26, 27, 38, 42, 43, 44, 45, 46 y 47. La 4 no se ofrece todavía: no abrí el reglamento en esta pasada y la cláusula no queda localizada hasta que Jurídico señale el párrafo.
+
+El escrito ya dejó la prórroga entre corchetes. Así se queda. La hoja prefirmada de la comisión y la captura que no está en la carpeta siguen fuera.
