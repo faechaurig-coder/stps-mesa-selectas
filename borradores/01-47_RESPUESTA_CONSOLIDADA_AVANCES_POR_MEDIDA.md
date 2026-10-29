@@ -7,8 +7,8 @@
 | 2 | Hay RIT; falta acta de comisión mixta específicamente del RIT. Jurídico la revisa. |
 | 3 | Hay folio de SOLICITUD CFCRL; depósito efectivo sin acreditar. |
 | 4 | RIT prevé permiso; revisar que texto y aplicación cumplan, sin inventar casos. |
-| 5 | Hay recibos semanales de agosto en `Nominas`, además de cuatro previos; siguen **incompletos y sin conciliación** frente al corte y plantilla. |
-| 6 | **APORTAR** protocolo y acta mixta del 06/09 con cuatro firmas como avance formal documentado posterior a la inspección. |
+| 5 | Se localizaron recibos semanales de agosto en `Nominas` y cuatro de primera entrega: **localizados, sin conciliar** por persona ni contra el corte. No ofrecer paquete completo. |
+| 6 | **APORTAR** acta de comisión del protocolo del 06/09 con cuatro firmas; no afirmar que el protocolo separado está firmado ni confundir con RIT. |
 | 7 | Hay análisis previo; se rehace aplicabilidad con condiciones reales y sin declarar sillas existentes. |
 | 8 | Anexo 9 menciona puestos, falta identificar a cada persona y su exposición. |
 | 9 | Anexo 8 contiene puntuación objetada; elaborar fichas y calificación individual correcta. |
@@ -16,7 +16,7 @@
 | 11 | Anexo 10 trae cuatro firmas de Comisión; **no se impartió la plática** ni hay lista auténtica de participantes. |
 | 12 | Anexo 10 describe canalización; falta prueba de atenciones reales si existieron. |
 | 13 | Hay guion y procedimiento de áreas; falta impartición y firmas reales de trabajadores. |
-| 14 | **APORTAR** Anexo 9 del 04/09 firmado por los cuatro: evidencia concreta de recorrido de verificación posterior, sujeta al alcance de la medida. |
+| 14 | **APORTAR** Anexo 9 con cuatro firmas como evidencia del **recorrido realizado el 04/09**, sin afirmar periodicidad acreditada. |
 | 15 | **APORTAR** Anexo 9 del 04/09: ya tiene cuatro firmas y subsana el defecto formal objetado; falta complementar nombres de 5.2 sin alterar original. |
 | 16 | Factura 1628 corresponde a cámaras, no ventilación de personal; falta orden/bitácora específica. |
 | 17 | Programa 05–10/10 existente; falta bitácora firmada de trabajos REALMENTE ejecutados. |
@@ -35,8 +35,8 @@
 | 30 | Diagnóstico requiere identificar requisitos normativos aplicables y su situación real. |
 | 31 | Relación inicial existe; integrar acciones, responsables propuestos, plazos aprobados y pruebas. |
 | 32 | Falta mecanismo documentado de actualización basado en cambios reales. |
-| 33 | **APORTAR** Anexo 20 firmado: documenta designación del responsable SST; completar fecha/acceso a información mediante aclaración real, sin retrofechar. |
-| 34 | **APORTAR** Anexo 20: mecanismo escrito de respuesta ante riesgo grave; complementar evidencia de comunicación real cuando exista. |
+| 33 | **APORTAR** Anexo 20 1.pdf firmado: designación de responsable SST; fecha y acceso del numeral 4.2 solo con nota complementaria de hechos verificables. |
+| 34 | **APORTAR** Anexo 20 1.pdf firmado: mecanismo escrito ante riesgo grave; **sin declarar comunicación a plantilla**. |
 | 35 | **APORTAR** Anexo 21: cinco procedimientos firmados; aclaración independiente sobre sillas aún no disponibles, sin descalificar el resto. |
 | 36 | Relación de acciones propuesta; falta evidencia de su aplicación efectiva. |
 | 37 | **APORTAR COMO PARCIAL** Anexo 22 con dos firmas y completar, en constancia nueva y fecha real, firmas de los demás integrantes CSH. |
