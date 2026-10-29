@@ -14,7 +14,7 @@ Centro: Operadora de Frutas Selectas · Expediente 2421/000515/2026.
 | AC-06 (18–26) | Cotejar/subsanar integración de CSH, recorridos e impartir capacitación real | Dirección/SST/CSH | [definir] | Actas históricas; capacitación sin realizar |
 | AC-07 (1,5) | Conciliar plantilla 01/09, movimientos IMSS y recibos | RH/Administración | [definir] | IMSS viejo y nómina parcial |
 | AC-08 (42–43) | Localizar/documentar o presentar aviso oficial del accidente | Dirección/RH/Jurídico | [definir] | Sin acuse SIAAT aportado |
-| AC-09 (11,13,27,37) | Explicar riesgos, áreas y señales; obtener constancia al impartir | SST/RH | [definir] | Textos y foto CCTV; faltan listas reales |
+| AC-09 (11,13,27,37) | Impartir plática pendiente de riesgos/áreas/señales; para 37 obtener firmas requeridas de CSH | SST/RH | [definir] | Solo textos; **no se impartió la plática y no existe foto/video en carpeta** |
 | AC-10 (28–30,38–41) | Diagnóstico, registro de avances y evidencia de competencia; archivo documental | SST/Dirección | [definir] | Borradores y antecedentes, sin cierre |
 
 ## 2. Registro de seguimiento (uso real)
