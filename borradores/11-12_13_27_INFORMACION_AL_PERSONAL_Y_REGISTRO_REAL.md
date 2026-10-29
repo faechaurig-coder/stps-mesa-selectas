@@ -19,4 +19,4 @@
 - Evidencia opcional: fotos de la explicación, material mostrado, preguntas/respuestas.
 - Personas ausentes y nueva fecha de capacitación: **[registrar]**.
 
-**Fuentes separadas:** Cursor no localizó fotografías ni constancia formal de plática en la carpeta de trabajo. Posteriormente, el usuario aportó en esta conversación una captura del 24/10 de personal reunido y reportó una actividad informativa. La imagen por sí sola no acredita temario, duración ni asistentes. Anexo 10 lleva cuatro firmas CSH; no sustituye lista de plantilla. **Estado: PENDIENTE DE ACREDITACIÓN FORMAL.**
+**Hecho actualizado por el facilitador:** Francisco Alfonso Echauri Gavidia confirma haber impartido **dos pláticas diferenciadas**: (1) comunicación de riesgos en el centro de trabajo y cómo actuar ante situaciones de riesgo; (2) bipedestación y sus medidas preventivas. La fotografía del 24/10 muestra una reunión; **no acredita por sí sola el contenido de ambas sesiones, su fecha exacta ni todos los asistentes**. Anexo 10 lleva cuatro firmas CSH, no es lista de plantilla. **Estado: información reportada con soporte parcial; asistencia formal pendiente.**
