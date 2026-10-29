@@ -10,9 +10,9 @@
 
 Los planes señalan **qué existe, qué sigue faltando y tres fases para atenderlo**: verificación, ejecución y seguimiento. Sus responsables y fechas definitivos quedan sujetos a aprobación expresa; **un plan no sustituye la ejecución de la medida**.
 
-Se reconoce expresamente que **permanecen sin acreditar** las adecuaciones de escaleras y descansos, antiderrapantes, sillas para bipedestación, evaluación individual pendiente, determinadas constancias de capacitación e información al personal y los avisos oficiales que carezcan de acuse. Los procedimientos, las firmas de responsables y las fotografías de reuniones no sustituyen constancias firmadas por cada trabajador ni prueban por sí solos capacitación realizada. El programa de mantenimiento tampoco demuestra ejecución de trabajos.
+Se reconoce expresamente que **permanecen sin acreditar** las adecuaciones de escaleras y descansos, antiderrapantes, sillas para bipedestación, evaluación individual pendiente, determinadas constancias de capacitación e información al personal y los avisos oficiales que carezcan de acuse. Los procedimientos y firmas de responsables **no sustituyen la asistencia firmada de participantes** ni prueban capacitación que no fue impartida. Para la medida 37, el faltante específico es la firma de integrantes de la Comisión. El programa de mantenimiento tampoco demuestra ejecución de trabajos.
 
-La empresa presenta los avances auténticos disponibles, mantiene abiertos los demás requerimientos y plantea acciones para su regularización, **sin solicitar prórroga ni declarar cumplido lo que no está acreditado**. Las condiciones que impliquen riesgo inmediato deben ser atendidas prioritariamente.
+La empresa presenta los avances auténticos disponibles, mantiene abiertos los demás requerimientos y plantea acciones para su regularización, **sin declarar cumplido lo que no está acreditado**. [DECISIÓN SOBRE PRÓRROGA: confirmar por Dirección antes de emitir; no incluir esta nota en el escrito final]. Las condiciones que impliquen riesgo inmediato deben ser atendidas prioritariamente.
 
 **Se solicita:** recibir las manifestaciones y anexos efectivamente integrados; valorar individualmente las pruebas y el plan de atención; expedir acuse que identifique fecha, fojas y documentos recibidos.
 
