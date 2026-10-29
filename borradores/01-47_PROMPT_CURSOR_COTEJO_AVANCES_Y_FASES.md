@@ -1,5 +1,12 @@
 # PROMPT PARA CURSOR · Verificación dirigida de avances y planes — 29/10/2026
 
+## NUEVA PRIORIDAD DEL USUARIO — «CÓMO SÍ»
+**No rechazar por sistema la evidencia imperfecta.** Revisa primero `00_CRITERIO_COMO_SI_Y_PRIORIDAD_DE_ENTREGA.md` y la nueva columna **«Cómo SÍ aprovecharlo»** de `01-47_MATRIZ_EVIDENCIA_Y_FALTANTES.md`.
+Por cada original cotejado, distingue (A) **APROBADO INTERNAMENTE PARA OFRECER** (hecho y firma pertinentes), (B) **AVANCE PARCIAL APROVECHABLE**, y (C) **NO OFRECER COMO PRUEBA DE EJECUCIÓN**. Propón SIEMPRE el ajuste mínimo que permita ofrecer la parte auténtica en vez de descartarla entera. La STPS conserva la valoración de cumplimiento.
+**Primer lote favorable a verificar y separar para impresión:** 6; 14,15,23,24; 33,34,35. Además 37 como avance parcial, y los CFDI de 5 que estén cotejados. El recorrido del 04/09 sí está firmado; 23 y 24 son evidencias nuevas para la autoridad. No pedir documentación que STPS no requirió.
+**La lista prefirmada de capacitación CSH se excluye**: aquí no vale buscar un «cómo sí» falso. También siguen abiertos sillas, avisos SIAAT, escaleras, antiderrapantes, pláticas sin impartir y foto nueva 47.
+
+
 **Objetivo común:** preparar una respuesta HONESTA a las 47 medidas de STPS: qué se ha realizado, qué documento lo respalda, qué sigue faltando y qué plan realista por fases se propone. **El trabajo pesado de redacción lo hace ChatGPT.** Tú solo validas con originales locales y señalas correcciones. Tiempo y tokens: limitar cotejos a archivos específicos. No releas los 442 documentos.
 
 ## Fuentes y reparto
