@@ -11,9 +11,9 @@
 | 1 | PENDIENTE | IMSS.pdf (antiguo); movimientos citados en STPS_FINAL | Corte al 01/09, reportes agosto/septiembre y aclaración documental de baja de la persona observada | APORTE PARCIAL: archivo anterior; no sustituye IMSS 2026 |
 | 2 | PENDIENTE | RIT / STPS_FINAL | Acta de comisión mixta específicamente del Reglamento Interior | PLAN: pedir acta específica RIT |
 | 3 | PENDIENTE | RIT; folio CFCRL-REGLAMENTO-20260908-63162-18267 | Acuse de depósito, no solo solicitud | APORTE PARCIAL: folio de solicitud, no depósito |
-| 4 | PENDIENTE | RIT | Cotejo con abogados y prueba de aplicación, cuando exista supuesto | APORTE PARCIAL: cláusula RIT, cotejar |
-| 5 | PARCIAL | Carpeta local `Nominas`: recibos semanales de agosto; además cuatro CFDI de primera entrega | Conjunto existente **no conciliado ni completo**; comprobar corte al 30/08 y 68 personas del acta | APORTE PARCIAL: CFDI de agosto cotejados, sin afirmación de totalidad |
-| 6 | SOPORTE LOCALIZADO | Acta comisión mixta protocolo (06/09); PRO-RH-PDG-001 | Cursor confirmar correspondencia íntegra, participación y documento firmado | PRESENTABLE: acta 06/09 y protocolo firmados |
+| 4 | PENDIENTE | RIT: cláusula sin localizar en el lote de las 14:00 | Jurídico debe señalar párrafo exacto y aplicación real si corresponde | NO OFRECER TODAVÍA; no se cotejó la cláusula |
+| 5 | PARCIAL | Carpeta `Nominas`: recibos semanales de agosto y cuatro de primera entrega | **Localizados, sin conciliar** por persona ni con corte 30/08 y plantilla de 68 | MENCIONAR AVANCE; NO IMPRIMIR COMO PAQUETE COMPLETO; CFDI de agosto localizados, sin conciliar |
+| 6 | SOPORTE LOCALIZADO | `2 visita/Acta de protocolo de discriminacion.pdf` del 06/09; cuatro firmas | Acta posterior a la inspección; es del protocolo, NO del RIT; el protocolo separado no está acreditado como firmado | **APROBADO INTERNAMENTE PARA OFRECER:** acta del protocolo con cuatro firmas; no afirmar firma del protocolo aparte |
 | 7 | PENDIENTE | Anexo 8 | Rehacer aplicabilidad; no afirmar sillas disponibles | AVANCE: análisis inicial, sin cumplimiento de sillas |
 | 8 | PARCIAL | Anexo 9 (apartado 5.2) | Identificación con nombre y puesto de CADA persona | AVANCE: identificación por puestos; falta persona |
 | 9 | PENDIENTE | Anexo 8 | Ficha y puntuación individual; revisar clasificación de 9 puntos | AVANCE: evaluación histórica objetada; corregir ficha individual |
@@ -21,17 +21,17 @@
 | 11 | PENDIENTE | Anexo 10 (cuatro firmas CSH), guía de capacitación no impartida | Faltan charla real y lista firmada por participantes; el Anexo 10 NO es esa lista | APORTE PARCIAL: Anexo 10 con cuatro firmas CSH; no plática |
 | 12 | PENDIENTE | Anexo 10: canalización prevista | Registros reales de casos/canalización, si existieron; no inventar | APORTE PARCIAL: mecanismo de canalización documentado |
 | 13 | PENDIENTE | Guía de capacitación y Anexo 21 | Impartir contenido sobre uso de áreas y obtener asistencia auténtica; **no hay foto o video de plática en carpeta** | APORTE PARCIAL: procedimiento de áreas/guion, no plática |
-| 14 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, firmado | Verificar periodicidad/contenido del registro y observación STPS | PRESENTABLE: recorrido 04/09 firmado; cotejar alcance |
-| 15 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, ahora con las cuatro firmas | En primera entrega STPS objetó falta de firmas; se corrigió ese defecto. Faltan nombres individuales de 5.2, y aclarar 64 vs 68 sin modificar actas | PRESENTABLE: cuatro firmas agregadas al recorrido; falta 5.2 |
+| 14 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` recorrido 04/09 con cuatro firmas | La evidencia corresponde a ESE recorrido; no acredita periodicidad de futuros recorridos | **APROBADO INTERNAMENTE PARA OFRECER:** registro de recorrido del 04/09, sin prometer periodicidad |
+| 15 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` del 04/09, cuatro firmas | Se subsanó objeción formal de falta de firmas; 5.2 sigue sin nombres y 64/68 sin conciliar | **APROBADO INTERNAMENTE PARA OFRECER:** Anexo 9 firmado para subsanar defecto puntual, sin declarar cierre total |
 | 16 | PENDIENTE | Factura 1628 sobre cámaras | Prueba de mantenimiento de ventilación de áreas de personal | PLAN: factura 1628 no corresponde a ventilación personal |
-| 17 | PENDIENTE | Programa mantenimiento 05–10/10 | Bitácora de trabajos efectivamente ejecutados y firma Cristóbal Pazos | PRESENTABLE COMO PROGRAMA: ejecución pendiente |
+| 17 | PENDIENTE | Programa de mantenimiento 05–10/10 | No hay bitácora real ni prueba de ejecución | **MENCIONAR AVANCE DOCUMENTAL:** solo programación, no ejecución |
 | 18 | PENDIENTE | Acta CSH 04/09, posterior a inspección 01/09 | STPS: fecha posterior y **no cumplimiento del numeral 7.4 NOM-019**; oficio no especifica incisos | APORTE PARCIAL: acta 04/09; objeción 7.4 y fecha |
 | 19 | PENDIENTE | Acta CSH 04/09 | STPS: fecha posterior al 01/09 y no cumple numeral 7.4; determinar faltantes con cotejo técnico, NO atribuir incisos a STPS | APORTE PARCIAL: acta 04/09; objeción 7.4 y fecha |
 | 20 | PENDIENTE | Programa de recorridos 05/09 y acta CSH | STPS lo rechazó porque la constitución no cumple 7.4; **no por defecto independiente de cronograma** | APORTE PARCIAL: programa 05/09, dependiente de integración |
 | 21 | PENDIENTE | Acta CSH: coordinador | Misma objeción STPS: fecha posterior al 01/09 y acta no conforme al numeral 7.4 | APORTE PARCIAL: designación en acta objetada |
 | 22 | PENDIENTE | Acta CSH: secretario | Misma objeción STPS: fecha posterior al 01/09 y acta no conforme al numeral 7.4 | APORTE PARCIAL: designación en acta objetada |
-| 23 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, cuatro firmas | **Evidencia nueva a presentar**: STPS dijo que en primera entrega no se aportó prueba de esta medida; no afirmar valoración previa | PRESENTABLE: soporte NUEVO con firmas; STPS no lo vio antes |
-| 24 | SOPORTE LOCALIZADO | Anexo 9, recorrido 04/09, cuatro firmas | **Evidencia nueva a presentar**: STPS dijo que en primera entrega no se aportó prueba; no afirmar valoración previa | PRESENTABLE: soporte NUEVO con firmas; STPS no lo vio antes |
+| 23 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` del 04/09, cuatro firmas | Primera entrega no ligó evidencia a esta medida; no fue valorada por STPS | **APROBADO INTERNAMENTE PARA OFRECER:** Anexo 9 como soporte nuevo expresamente referido a 23 |
+| 24 | SOPORTE LOCALIZADO | `2 visita/Anexo 9.pdf` del 04/09, cuatro firmas | Primera entrega no ligó evidencia a esta medida; no fue valorada por STPS | **APROBADO INTERNAMENTE PARA OFRECER:** Anexo 9 como soporte nuevo expresamente referido a 24 |
 | 25 | PENDIENTE | Lista de capacitación CSH prefirmada | Realizar capacitación, fecha y firmas posteriores reales; lista anterior NO utilizar | PLAN: impartir capacitación real; excluir hoja prefirmada |
 | 26 | PENDIENTE | Misma lista prefirmada | Inducción efectiva a integrantes y evidencia posterior | PLAN: impartir inducción real; excluir hoja prefirmada |
 | 27 | PENDIENTE | Guía de capacitación | Explicar señales reales y documentar asistentes | PLAN: sesión real de señales; guion no prueba impartición |
@@ -40,11 +40,11 @@
 | 30 | PENDIENTE | Anexo 18 | Tabla de requisitos normativos y condición por área | CERRABLE DOCUMENTALMENTE SI se revisan normas aplicables reales |
 | 31 | PENDIENTE | Anexo 19; relación previa | Acciones, responsables, fechas y evidencias verificables | CERRABLE DOCUMENTALMENTE SI Dirección aprueba acciones/fechas reales |
 | 32 | PENDIENTE | Anexo 19 | Criterio y registro de actualización, seguimiento real | APORTE PARCIAL: establecer criterio actualizado y primer registro auténtico |
-| 33 | SOPORTE LOCALIZADO | Anexo 20, firmado por Francisco | Verificar fecha de designación y acceso a información (4.2) | PRESENTABLE: designación firmada; complementar fecha/acceso |
-| 34 | SOPORTE LOCALIZADO | Anexo 20, mecanismo de riesgo grave | Cotejar comunicación e implementación | PRESENTABLE: mecanismo firmado; comprobar comunicación |
-| 35 | SOPORTE LOCALIZADO | Anexo 21, cinco procedimientos, firmado | Corregir por nota ACTUAL contradicción de 'asientos disponibles' | PRESENTABLE: cinco procedimientos firmados; nota sobre sillas |
+| 33 | SOPORTE LOCALIZADO | `2 visita/Anexo 20 1.pdf` firmado por responsable SST | Falta fecha de designación y constancia del acceso a información del numeral 4.2 | **APROBADO INTERNAMENTE PARA OFRECER:** designación; nota complementaria aparte, sin modificar original |
+| 34 | SOPORTE LOCALIZADO | `2 visita/Anexo 20 1.pdf` firmado por responsable SST | No se ha acreditado difusión del mecanismo | **APROBADO INTERNAMENTE PARA OFRECER:** mecanismo escrito; nota complementaria 4.2 solo si consta |
+| 35 | SOPORTE LOCALIZADO | `2 visita/Anexo 21.pdf` del 07/09, cinco procedimientos firmados | Texto original menciona «asientos disponibles»; actualmente no se acreditan sillas | **APROBADO INTERNAMENTE PARA OFRECER:** cinco procedimientos; aclaración de sillas EN HOJA APARTE |
 | 36 | PENDIENTE | Anexo 19 | Acreditar aplicación real de acciones de la relación | APORTE PARCIAL: primer registro auténtico de uso cuando exista |
-| 37 | PARCIAL | Anexo 22: dos firmas (quien comunica y responsable SST) | STPS requiere firmas de **integrantes de la Comisión**, no de toda la plantilla; faltan las que no aparecen | APORTE PARCIAL: dos firmas; conseguir complemento CSH actual |
+| 37 | PARCIAL | `2 visita/Anexo 22.pdf`, dos firmas | Faltan firmas de miembros de CSH; ninguna firma retroactiva | **MENCIONAR SIN CERRAR:** avanzar con constancia nueva fechada realmente, si se realiza |
 | 38 | PENDIENTE | Temario CSH / referencias competencia | Demostrar competencias reales; no hay DC-3 | PLAN: evaluar competencias auténticas; no DC-3 inventada |
 | 39 | PENDIENTE | Anexo 19 | Seguimiento fechado, responsable, avance y evidencia | APORTE PARCIAL: bitácora con primer avance REAL, si existe |
 | 40 | PENDIENTE | Anexo 19 | Conservación documental 2 años y archivo/registro verificable | APORTE PARCIAL: aprobar y acreditar archivo documental real |
