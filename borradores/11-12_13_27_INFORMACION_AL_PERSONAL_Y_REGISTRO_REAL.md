@@ -19,4 +19,4 @@
 - Evidencia opcional: fotos de la explicación, material mostrado, preguntas/respuestas.
 - Personas ausentes y nueva fecha de capacitación: **[registrar]**.
 
-**Evidencia histórica:** captura de CCTV del 24/10/2026 12:11 muestra personas reunidas, pero **por sí sola no acredita contenido ni participantes**. El Anexo 10 firmado por integrantes de CSH documenta el procedimiento, no las firmas de la plantilla. **Estado de estas medidas: PENDIENTE.**
+**Cotejo Cursor 29/10:** no hay fotografía ni video de plática en la carpeta y no se impartieron las sesiones. El Anexo 10 lleva cuatro firmas de integrantes de CSH; no sustituye constancias de la plantilla ni acredita impartición. **Estado: PENDIENTE.**
